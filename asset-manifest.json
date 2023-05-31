@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d515a3df.css",
+    "main.js": "/static/js/main.45f15680.js",
+    "static/js/787.c3471ca8.chunk.js": "/static/js/787.c3471ca8.chunk.js",
+    "static/media/Guacamaya.png": "/static/media/Guacamaya.f78fa092d58ba79e537a.png",
+    "static/media/Vector.png": "/static/media/Vector.8fd2f5a4e678bcd41142.png",
+    "static/media/Tucán.png": "/static/media/Tucán.71b474d914be8e44b28f.png",
+    "static/media/logo.png": "/static/media/logo.47b588de217ba7620d68.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.d515a3df.css.map": "/static/css/main.d515a3df.css.map",
+    "main.45f15680.js.map": "/static/js/main.45f15680.js.map",
+    "787.c3471ca8.chunk.js.map": "/static/js/787.c3471ca8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d515a3df.css",
+    "static/js/main.45f15680.js"
+  ]
+}
