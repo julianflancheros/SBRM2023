@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.d515a3df.css",
-    "main.js": "/static/js/main.45f15680.js",
-    "static/js/787.c3471ca8.chunk.js": "/static/js/787.c3471ca8.chunk.js",
-    "static/media/Guacamaya.png": "/static/media/Guacamaya.f78fa092d58ba79e537a.png",
-    "static/media/Vector.png": "/static/media/Vector.8fd2f5a4e678bcd41142.png",
-    "static/media/Tucán.png": "/static/media/Tucán.71b474d914be8e44b28f.png",
-    "static/media/logo.png": "/static/media/logo.47b588de217ba7620d68.png",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.d515a3df.css.map": "/static/css/main.d515a3df.css.map",
-    "main.45f15680.js.map": "/static/js/main.45f15680.js.map",
-    "787.c3471ca8.chunk.js.map": "/static/js/787.c3471ca8.chunk.js.map"
+    "main.css": "/SBRM2023/static/css/main.d515a3df.css",
+    "main.js": "/SBRM2023/static/js/main.70cee3bb.js",
+    "static/js/787.c3471ca8.chunk.js": "/SBRM2023/static/js/787.c3471ca8.chunk.js",
+    "static/media/Guacamaya.png": "/SBRM2023/static/media/Guacamaya.f78fa092d58ba79e537a.png",
+    "static/media/Vector.png": "/SBRM2023/static/media/Vector.8fd2f5a4e678bcd41142.png",
+    "static/media/Tucán.png": "/SBRM2023/static/media/Tucán.71b474d914be8e44b28f.png",
+    "static/media/logo.png": "/SBRM2023/static/media/logo.47b588de217ba7620d68.png",
+    "static/media/logo.svg": "/SBRM2023/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/SBRM2023/index.html",
+    "main.d515a3df.css.map": "/SBRM2023/static/css/main.d515a3df.css.map",
+    "main.70cee3bb.js.map": "/SBRM2023/static/js/main.70cee3bb.js.map",
+    "787.c3471ca8.chunk.js.map": "/SBRM2023/static/js/787.c3471ca8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d515a3df.css",
-    "static/js/main.45f15680.js"
+    "static/js/main.70cee3bb.js"
   ]
 }
